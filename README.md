@@ -1,2 +1,2 @@
 # yearling-electronics
-Project files for CD&amp;H and EPS boards
+PROVES-Yearling Project files for CD&amp;H and EPS boards
