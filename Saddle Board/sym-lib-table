@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SpresensePart2_1-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/SpresensePart2_1-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "SpresensePart2-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/SpresensePart2-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Buffer")(type "Legacy")(uri "${KIPRJMOD}/extra footprints/ul_74LVC244APW/KiCAD/2023-02-01_06-26-57/2023-02-01_06-26-57.lib")(options "")(descr ""))
+)

@@ -1,0 +1,16 @@
+.TCA9548APWR :1 ;TEXAS INSTRUMENTS - TCA9548APWR - I2C SWITCH W/ RESET, 8-CH, TSSOP-24
+SOP65P640X120-24N
+*STM IC
+*NGS
+*PLB 1="A0" 2="A1" 3="'RESET'" 4="SD0" 5="SC0" 6="SD1" 7="SC1" 8="SD2" 9="SC2" 10="SD3" 11="SC3" 12="GND" 13="SD4" 14="SC4" 15="SD5" 16="SC5" 17="SD6" 18="SC6" 19="SD7" 20="SC7" 21="A2" 22="SCL" 23="SDA" 24="VCC"
+*MXP 24
+*DFN TCA9548APWR
+~!Mouser Part Number (595-TCA9548APWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9548APWR?qs=iFaFN7AS2WF%252BqSiJMbdYwQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TCA9548APWR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tca9548a.pdf)
+~!Height (1.2mm)
+~!3D_Model (TCA9548APWR)
+TCA9548APWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

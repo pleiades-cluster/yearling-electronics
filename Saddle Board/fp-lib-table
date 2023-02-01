@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SpresensePart2")(type "KiCad")(uri "$(KIPRJMOD)/SpresensePart2.pretty")(options "")(descr ""))
+  (lib (name "LIB_TCA9548APWR")(type "KiCad")(uri "${KIPRJMOD}/extra footprints/LIB_TCA9548APWR/TCA9548APWR/KiCad")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/extra footprints/ul_74LVC244APW/KiCAD/2023-02-01_06-26-57/footprints.pretty")(options "")(descr ""))
+)

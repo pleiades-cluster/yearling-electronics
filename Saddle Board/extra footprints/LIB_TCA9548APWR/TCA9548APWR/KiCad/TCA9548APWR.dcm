@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9548APWR
+D TEXAS INSTRUMENTS - TCA9548APWR - I2C SWITCH W/ RESET, 8-CH, TSSOP-24
+K
+F http://www.ti.com/lit/ds/symlink/tca9548a.pdf
+$ENDCMP
+#
+#End Doc Library
